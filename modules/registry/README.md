@@ -50,4 +50,4 @@ export AWS_DEFAULT_REGION="xxx"
 
 This action is workflow dispatched [with inputs](https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#onworkflow_dispatchinputs).
 
-See [aws-container-registry-dispatch.yml](https://github.com/clicktruck/aws-actions/.github/workflows/aws-container-registry-dispatch.yml)
+See [aws-container-registry-dispatch.yml](https://github.com/clicktruck/aws-actions/actions/workflows/aws-container-registry-dispatch.yml)

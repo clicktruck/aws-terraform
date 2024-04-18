@@ -54,4 +54,4 @@ See https://docs.aws.amazon.com/secretsmanager/latest/userguide/retrieving-secre
 
 This action is workflow dispatched [with inputs](https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#onworkflow_dispatchinputs).
 
-See [aws-secrets-manager-secrets-dispatch.yml](https://github.com/clicktruck/aws-actions/.github/workflows/aws-secrets-manager-secrets-dispatch.yml)
+See [aws-secrets-manager-secrets-dispatch.yml](https://github.com/clicktruck/aws-actions/actions/workflows/aws-secrets-manager-secrets-dispatch.yml)

@@ -49,4 +49,4 @@ export AWS_DEFAULT_REGION="xxx"
 
 This action is workflow dispatched [with inputs](https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#onworkflow_dispatchinputs).
 
-See [aws-secrets-manager-dispatch.yml](https://github.com/clicktruck/aws-actions/.github/workflows/aws-secrets-manager-dispatch.yml)
+See [aws-secrets-manager-dispatch.yml](https://github.com/clicktruck/aws-actions/actions/workflows/aws-secrets-manager-dispatch.yml)

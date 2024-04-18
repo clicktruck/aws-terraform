@@ -49,4 +49,4 @@ export AWS_DEFAULT_REGION="xxx"
 
 This action is workflow dispatched [with inputs](https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#onworkflow_dispatchinputs).
 
-See [aws-main-dns-dispatch.yml](https://github.com/clicktruck/aws-actions/.github/workflows/aws-main-dns-dispatch.yml)
+See [aws-main-dns-dispatch.yml](https://github.com/clicktruck/aws-actions/actions/workflows/aws-main-dns-dispatch.yml)

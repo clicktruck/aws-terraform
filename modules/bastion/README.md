@@ -60,5 +60,5 @@ export AWS_DEFAULT_REGION="xxx"
 
 This action is workflow dispatched [with inputs](https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#onworkflow_dispatchinputs).
 
-See [aws-bastion-dispatch.yml](https://github.com/clicktruck/aws-actions/.github/workflows/aws-bastion-dispatch.yml)
+See [aws-bastion-dispatch.yml](https://github.com/clicktruck/aws-actions/actions/workflows/aws-bastion-dispatch.yml)
 
